@@ -6,9 +6,9 @@ feature - second
 New Feature MEGA TOP HOT!!!!
 
 MAIN2
-MAIN2 - 2
-MAIN2 - 3
+MAIN2 - 20
+MAIN2 - 30
 
-NEW MAIN2 - 1
-NEW MAIN2 - 2
-NEW MAIN2 - 3
+NEW MAIN2 - 10
+NEW MAIN2 - 20
+NEW MAIN2 - 30
